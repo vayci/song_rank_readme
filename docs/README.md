@@ -31,11 +31,11 @@
 
 - Bark通知
 
-如果iOS用户选择Bark通知，需在手机下载安装 [Bark APP](https://apps.apple.com/cn/app/bark-%E7%BB%99%E4%BD%A0%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%91%E6%8E%A8%E9%80%81/id1403753865) ，并按照 [此教程](https://cdn.olook.me/bark.mp4) 进行配置，获取Bark链接开通时进行填入。
+如果iOS用户选择Bark通知，需在手机下载安装 [Bark APP](https://apps.apple.com/cn/app/bark-%E7%BB%99%E4%BD%A0%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%91%E6%8E%A8%E9%80%81/id1403753865) ，并将服务器地址配置为 `https://push.nztgm.top`，获取Bark链接，开通后配置到网页版小程序中。
 
 ### 2.4 网页开通
 
-完成上述步骤后，点击 [开通地址](https://v.olook.me/cdk.html) 填入相应信息进行开通。如果为首次开通，操作类型请选择“新开通”。
+完成上述步骤后，点击 [开通地址](https://www.nztgm.top/cdk.html) 填入相应信息进行开通。如果为首次开通，操作类型请选择“新开通”。
 
 **首次开通需对方下次听歌才会有记录，请耐心等待。**
 
